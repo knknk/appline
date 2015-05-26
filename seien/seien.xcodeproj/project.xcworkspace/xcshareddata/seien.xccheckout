@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DCAAA679-4835-4436-A07C-E1BE8CF7E2C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>seien</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE41EA6B9D659A9CFC732C71FCE30D764B5015A6</key>
+		<string>https://github.com/knknk/appline.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>seien/seien.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE41EA6B9D659A9CFC732C71FCE30D764B5015A6</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/knknk/appline.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE41EA6B9D659A9CFC732C71FCE30D764B5015A6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE41EA6B9D659A9CFC732C71FCE30D764B5015A6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E5%B0%B1%E6%B4%BBHP%E7%AE%A1%E7%90%86</string>
+		</dict>
+	</array>
+</dict>
+</plist>
