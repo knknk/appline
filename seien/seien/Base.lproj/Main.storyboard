@@ -22,7 +22,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aLF-z8-3XN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1086.5" y="-6090.5"/>
+            <point key="canvasLocation" x="-2074.5" y="-5986.5"/>
         </scene>
         <!--履歴書-->
         <scene sceneID="yZQ-eS-o3d">
@@ -43,7 +43,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Q0v-pE-yOb" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1086.5" y="-5234.5"/>
+            <point key="canvasLocation" x="-2074.5" y="-5238.5"/>
         </scene>
         <!--企業研究-->
         <scene sceneID="SPL-G8-ke0">
@@ -63,7 +63,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LuL-1u-rRE" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1086.5" y="-4477.5"/>
+            <point key="canvasLocation" x="-2074.5" y="-4457.5"/>
         </scene>
         <!--自己分析-->
         <scene sceneID="hpN-xw-Fi2">
@@ -83,7 +83,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="QLD-CO-w0P" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1086.5" y="-3715.5"/>
+            <point key="canvasLocation" x="-2074.5" y="-3687.5"/>
         </scene>
         <!--スケジュール-->
         <scene sceneID="sb8-h7-8G9">
@@ -103,7 +103,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GcZ-R7-mBx" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1086.5" y="-2857.5"/>
+            <point key="canvasLocation" x="-2074.5" y="-2845.5"/>
         </scene>
         <!--Home-->
         <scene sceneID="lpp-CR-yjs">
